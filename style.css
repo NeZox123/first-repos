@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
+
+header{
+    background-color: #926CD6;
+    height: 100px;
+    display: flex;
+    border-radius: 10px;
+    position: relative;
+    bottom: 6px;
+    width: 1848px;
+    right: 5px;
+}
+
+.zagolovok1{
+    position: relative;
+    font-family: 'Roboto Condensed', sans-serif;
+    left: 350px;
+    font-size: 50px;
+    bottom: 17px;
+}
+
+.nav>a{
+    position: relative;
+    left: 490px;
+    font-size: 25px;
+    text-decoration: dashed;
+    margin-left: 5px;
+    color: black;
+    margin-left: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+    top: 33px;
+}
+
+.privetstvie{
+    background-image: url(/Files/Fone.jpg);
+    background-color: black;
+    width: 1869px;
+    position: relative;
+    right: 7px;
+    bottom: 47px;
+    border-radius: 10px;
+    height: 850px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+.privetstvie1{
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    color: #fff;
+    font-size: 50px;
+    top: 380px;
+    left: 480px;
+}
+
+body{
+    background-color: black;
+}
+
+.Top{
+    position: relative;
+    bottom: 70px;
+    background-image: url(/Files/Fone1.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 1848px;
+    height: 1000px;
+    top: 3px;
+    right: 5px;
+    border-radius: 10px;
+}
+
+.Top>h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    color: #fff;
+    font-size: 60px;
+    left: 610px;
+    top: 10px;
+}
+
+.Top>ul{
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    color: #fff;
+    font-size: 33px;
+    left: 750px;
+}
+
+.Payday{
+    background-image: url(/Files/Payday.jpg);
+    background-color: black;
+    width: 1848px;
+    position: relative;
+    border-radius: 10px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    top: 55px;
+    right: 5px;
+}
+
+.Payday>h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    color:black;
+    font-size: 60px;
+    left: 830px;
+}
+
+.Payday>iframe{
+    padding-left: 360px;
+    padding-top: 110px;
+}
+
+.Starfield{
+    background-image: url(./Files/Starfield.jpg);
+    background-color: black;
+    width: 1848px;
+    position: relative;
+    border-radius: 10px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    right: 5px;
+    top: 135px;
+}
+
+.Starfield>h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    color:black;
+    font-size: 60px;
+    left: 830px;
+}
+
+.Starfield>iframe{
+    padding-left: 288px;
+    padding-top: 60px;
+}
+    
+    
+
+.Counter-Strike_2{
+    background-image: url(./Files/Cs2.jpg);
+    background-color: black;
+    width: 1848px;
+    position: relative;
+    border-radius: 10px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    right: 5px;
+    top: 215px;
+}
+
+.Counter-Strike_2>h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    color:black;
+    font-size: 60px;
+    left: 750px;
+}
+
+.Counter-Strike_2>iframe{
+    padding-left: 345px;
+    padding-top: 70px;
+}
+
+.Hogwarts{
+    background-image: url(./Files/Hogwarts.jpg);
+    background-color: black;
+    width: 1848px;
+    position: relative;
+    border-radius: 10px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    right: 5px;
+    margin-top: 350px;
+}
+
+.Hogwarts>h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    color:black;
+    font-size: 60px;
+    left: 735px;
+}
+
+.Hogwarts>iframe{
+    padding-left: 353px;
+    padding-top: 100px;
+
+}
+
+.Outlast{
+    background-image: url(./Files/TheOutlastTrials.jpg);
+    background-color: black;
+    width: 1848px;
+    position: relative;
+    border-radius: 10px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    right: 5px;
+    margin-top: 140px;
+}
+
+.Outlast>h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    color:black;
+    font-size: 60px;
+    left: 735px; 
+}
+
+.Outlast>iframe{
+    padding-left: 358px;
+    padding-top: 70px;
+}
+
+footer{
+    background-color: #926CD6;
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    width: 1848px;
+    right: 5px;
+    margin-top: 3px;
+}
+
+footer>nav{
+    position: relative;
+    font-size: 45px;
+    left: 865px;
+    top: 18px;
+    color: black;
+    text-decoration: none;
+}
+   
+
+
+
+
+
+     
+
+
+
+
+
+
